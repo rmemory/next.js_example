@@ -50,3 +50,7 @@ Notice, there has been no need to add the base HTML page, DOCTYPE, etc. All of t
 * pages/index.js grabs the data from the API in its getInitialProps method, and isomorphic-unfetch is used to fetch the data because it works on the server side
 * A simple example of style jsx is commented out in components/Navbar.js
 
+Another summary of next.js
+
+https://medium.freecodecamp.org/use-react-with-next-js-framework-and-how-it-made-my-life-easier-4280b643451
+
